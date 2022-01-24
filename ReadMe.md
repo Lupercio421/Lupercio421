@@ -21,7 +21,7 @@
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
-<br />
+<!-- <br /> -->
 
 <!-- ### Languages and Tools:
 
@@ -58,13 +58,13 @@
 <!-- 
 ➡️ [more videos...](https://youtube.com/codestackr) -->
 
----
+<!-- --- -->
 
 ### 📕 Latest Blog Posts
 
-BLOG-POST-LIST:START
+<!-- BLOG-POST-LIST:START -->
 -[Analysis of Arrival Times of NYC Essential Agencies](https://daniel-llupercio.medium.com/time-series-analysis-arrival-times-of-nyc-essential-agencies-3679e72cea2a)
-BLOG-POST-LIST:END
+<!-- BLOG-POST-LIST:END -->
 
 <!-- ➡️ [more blog posts...](https://codestackr.com) -->
 
