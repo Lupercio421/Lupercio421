@@ -9,8 +9,8 @@
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning Cloud Fundamentals, AWS, Geospatial Statistics, GIS
 - 👨‍💼 I’m pursuing Data Analysts, Data Science or Data Consultancy roles
-- 🥅 2022 Goals: Contribute more to Open Source projects, Volunteer with Public Agencies, Continue to learn Advanced Statistical Topics
-- ⚡ Fun fact: I speak Spanish and like to bike around Queens
+- 🥅 2022 Goals: Contribute more to Open Source projects, Volunteer with Public Agencies, Continue to learn Advanced Statistical Learning Topics
+- ⚡ Fun facts: I speak Spanish and like to bike around Queens
 
 
 ### Connect with me:
@@ -90,14 +90,6 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
 [school]: https://hunter.cuny.edu/
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/Loopy_Daniel
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/daniel-l-b31554138/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
