@@ -3,7 +3,7 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a Student, Brother, Data Analyst, and New Yorker!!
+## I'm a Student, Brother and Data Analyst!
 
 - 🎓 I am pursuing a B.A/M.A dual degree in Statistics and Applied Math from [CUNY - Hunter College][school]!
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
