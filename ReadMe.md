@@ -6,7 +6,6 @@
 ## I'm a Student, Brother and Data Analyst!
 
 - 🎓 I am pursuing a B.A/M.A dual degree in Statistics and Applied Math from [CUNY - Hunter College][school]!
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning Cloud Fundamentals, AWS, Geospatial Statistics, GIS
 - 👨‍💼 I’m pursuing Data Analysts, Data Science or Data Consultancy roles
 - 🥅 2022 Goals: Contribute more to Open Source projects, Volunteer with Public Agencies, Continue to learn Advanced Statistical Learning Topics
