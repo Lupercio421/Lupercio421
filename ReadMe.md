@@ -6,7 +6,7 @@
 ## I'm a Student, Brother and Data Analyst!
 
 - 🎓 I am pursuing a B.A/M.A dual degree in Statistics and Applied Math from [CUNY - Hunter College][school]!
-- 🌱 I’m currently learning Cloud Fundamentals, AWS, PowerBI, Geospatial Statistics, GIS
+- 🌱 I’m currently learning Cloud Fundamentals, Data Structures and Algorithms, and PowerBI
 - 👨‍💼 I’m pursuing Data Analyst or Data Science roles
 - 🥅 2022 Goals: Contribute more to Open Source projects, Volunteer with Public Agencies, Continue to learn Advanced Statistical Learning Topics
 - ⚡ Fun facts: I speak Spanish and like to bike around Queens
