@@ -63,6 +63,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Analysis of Arrival Times of NYC Essential Agencies](https://daniel-llupercio.medium.com/time-series-analysis-arrival-times-of-nyc-essential-agencies-3679e72cea2a)
+  + You can view the repository and code for this project [here](https://github.com/Lupercio421/715_final_project)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ➡️ [more blog posts...](https://codestackr.com) -->
