@@ -59,11 +59,14 @@
 
 <!-- --- -->
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts and Projects
 
 <!-- BLOG-POST-LIST:START -->
 - [Analysis of Arrival Times of NYC Essential Agencies](https://daniel-llupercio.medium.com/time-series-analysis-arrival-times-of-nyc-essential-agencies-3679e72cea2a)
   + You can view the repository and code for this project [here](https://github.com/Lupercio421/715_final_project)
+- [Check out my 311 website](http://lupercio421.pythonanywhere.com/)
+  + This was a website completed for a course project. Couldn't have done this without the help of my classmates
+  + After you input your desired zipcode, please navigate to the 'Map' section
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ➡️ [more blog posts...](https://codestackr.com) -->
