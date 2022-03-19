@@ -8,7 +8,7 @@
 - 🎓 I am pursuing a B.A/M.A dual degree in Statistics and Applied Math from [CUNY - Hunter College][school]!
 - 🌱 I’m currently learning Cloud Fundamentals, Data Structures and Algorithms, and Power BI
 - 👨‍💼 I’m pursuing Data Analyst or Data Science roles
-- 🥅 2022 Goals: Contribute more to Open Source projects, Volunteer with Public Agencies, Continue to learn Advanced Statistical Learning Topics
+- 🥅 2022 Goals: Contribute to Open Source projects, Volunteer with Public Agencies, Continue to learn Advanced Statistical Learning Topics, learn some Data Engineering skills
 - ⚡ Fun facts: I speak Spanish and like to bike around Queens
 
 
