@@ -5,9 +5,9 @@
 
 ## I'm a Student, Brother and Data Analyst!
 
-- 🎓 I am pursuing a B.A/M.A dual degree in Statistics and Applied Math from [CUNY - Hunter College][school]!
+- 🎓 I am pursuing a B.A/M.A dual degree in Statistics and Applied Math from [CUNY - Hunter College][school]
 - 🌱 I’m currently learning GCP Fundamentals, Data Structures and Algorithms, and Power BI
-- 👨‍💼 I’m pursuing Data Analyst or Data Engineering roles
+- 👨‍💼 I’m currently a Data Science and Data Engineer intern at the [NYC Cyber Command][nyc3]
 - 🥅 2022 Goals: Contribute to Open Source projects, Volunteer with Public Agencies, Continue to learn Advanced Statistical Learning Topics, learn Data Engineering fundamentals and tools
 - ⚡ Fun facts: I speak Spanish and like to bike around Queens
 
@@ -96,3 +96,4 @@
 [school]: https://hunter.cuny.edu/
 [twitter]: https://twitter.com/Loopy_Daniel
 [linkedin]: https://www.linkedin.com/in/daniel-l-b31554138/
+[nyc3]: https://www1.nyc.gov/site/cyber/careers/careers-with-nyc-cyber-command.page
