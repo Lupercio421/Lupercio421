@@ -65,7 +65,7 @@
 - [Analysis of Arrival Times of NYC Essential Agencies](https://daniel-llupercio.medium.com/time-series-analysis-arrival-times-of-nyc-essential-agencies-3679e72cea2a)
   + You can view the repository and code for this project [here](https://github.com/Lupercio421/715_final_project)
 - [Check out my 311 website](http://lupercio421.pythonanywhere.com/)
-  + This was a website completed using Flask, SQLAlchemy, HTML and CSS.
+  + This was a website completed using Flask, SQLAlchemy, HTML and CSS
   + After you input your desired zipcode, please navigate to the 'Map' section
 <!-- BLOG-POST-LIST:END -->
 
