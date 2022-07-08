@@ -7,7 +7,7 @@
 
 - 🎓 I earned a B.A/M.A dual degree in Statistics and Applied Math from [CUNY - Hunter College][school]
 - 🌱 I’m currently learning GCP Fundamentals, Data Structures and Algorithms, and Power BI
-- 👨‍💼 I’m currently a Data Science and Data Engineer intern at the [NYC Cyber Command][nyc3]
+- 👨‍💼 I’m currently a Data Science and Data Engineer intern at the [NYC Office of Cyber Command][nyc3]
 - 🥅 2022 Goals: Contribute to Open Source projects, Volunteer with Public Agencies, Continue to learn Advanced Statistical Learning Topics, learn Data Engineering fundamentals and tools
 - ⚡ Fun facts: I speak Spanish and like to bike around Queens
 
@@ -96,4 +96,4 @@
 [school]: https://hunter.cuny.edu/
 [twitter]: https://twitter.com/Loopy_Daniel
 [linkedin]: https://www.linkedin.com/in/daniel-l-b31554138/
-[nyc3]: https://www1.nyc.gov/site/cyber/careers/careers-with-nyc-cyber-command.page
+[nyc3]: https://cloud.google.com/customers/nyc-cyber-command-2
