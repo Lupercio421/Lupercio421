@@ -3,12 +3,13 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a Student, Brother and Data Analyst!
+## I'm a Student, Brother and Data Engineer!
 
 - 🎓 I earned a B.A/M.A dual degree in Statistics and Applied Math from [CUNY - Hunter College][school]
 - 🌱 I’m currently learning GCP Fundamentals, Data Structures and Algorithms, and Power BI
-- 👨‍💼 I’m currently a Data Science and Data Engineer intern at the [NYC Office of Cyber Command][nyc3]
-- 🥅 2022 Goals: Contribute to Open Source projects, Volunteer with Public Agencies, Continue to learn Advanced Statistical Learning Topics, learn Data Engineering fundamentals and tools
+- ⏮ Previously a Data Science and Data Engineer intern at the [NYC Office of Cyber Command][nyc3]
+- 🤵 Current Engineer at Bank of America
+- 🥅 2023 Goals: Contribute to Open Source projects, Volunteer with Public Agencies, Continue to learn Advanced Statistical Learning Topics, learn Azure Data Engineering fundamentals and tools
 - ⚡ Fun facts: I speak Spanish and like to bike around Queens
 
 
