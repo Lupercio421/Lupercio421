@@ -6,7 +6,7 @@
 ## I'm a Student, Brother and Data Engineer!
 
 - 🎓 I earned a B.A/M.A dual degree in Statistics and Applied Math from [CUNY - Hunter College][school]
-- 🌱 I’m currently learning GCP Fundamentals, Data Structures and Algorithms, and Power BI
+- 🌱 I’m currently learning GCP Fundamentals, Kubernetes, Data Structures and Algorithms, NoSQL
 - ⏮ Previously a Data Science and Data Engineer intern at the [NYC Office of Cyber Command][nyc3]
 - 🤵 Current Engineer at Bank of America
 - 🥅 2023 Goals: Contribute to Open Source projects, Volunteer with Public Agencies, Continue to learn Advanced Statistical Learning Topics, learn Azure Data Engineering fundamentals and tools
