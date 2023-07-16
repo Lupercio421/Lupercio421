@@ -9,7 +9,7 @@
 - ⏮ Previously a Data Science and Data Engineer intern at the [NYC Office of Cyber Command][nyc3]
 - 🎓 I earned a B.A/M.A dual degree in Statistics and Applied Math from [CUNY - Hunter College][school]
 - 🌱 I’m currently learning Gang of Four Design Patterns (.NET & Python), NoSQL, Kubernetes, Data Structures and Algorithms
-- 🥅 2023 Goals: Contribute to Open Source projects, Volunteer with Latino Tech/Professsional communities, continue to learn Advanced Statistical Learning Topics, learn Azure Data Engineering fundamentals and tools
+- 🥅 2023 Goals: Contribute to Open Source projects, Volunteer with Latino Tech/Professsional communities, continue to learn Advanced Statistical Learning Topics, complete an ETL project within the Microsoft Azure techonlogy stack
 - ⚡ Fun facts: I speak Spanish and like to bike around Queens
 
 
