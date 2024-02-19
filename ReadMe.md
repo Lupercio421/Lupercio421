@@ -5,11 +5,11 @@
 
 ## I'm a Student, Brother and Data Engineer!
 
-- 🤵 Current Engineer at Bank of America
+- 🤵 Current Software Engineer at Bank of America
 - ⏮ Previously a Data Science and Data Engineer intern at the [NYC Office of Cyber Command][nyc3]
 - 🎓 I earned a B.A/M.A dual degree in Statistics and Applied Math from [CUNY - Hunter College][school]
-- 🌱 I’m currently learning Gang of Four Design Patterns (.NET & Python), NoSQL, Kubernetes, Data Structures and Algorithms
-- 🥅 2023 Goals: Contribute to Open Source projects, Volunteer with Latino Tech/Professsional communities, continue to learn Advanced Statistical Learning Topics, complete an ETL project within the Microsoft Azure techonlogy stack
+- 🌱 I’m currently learning Gang of Four Design Patterns (Java & Python), NoSQL, Kubernetes, Data Structures and Algorithms
+- 🥅 2024 Goals: Contribute to Open Source projects, Volunteer with Latino Tech/Professsional communities, continue to learn Advanced Statistical Learning Topics, complete a SpringBoot and ETL project within the Microsoft Azure techonlogy stack
 - ⚡ Fun facts: I speak Spanish and like to bike around Queens
 
 
