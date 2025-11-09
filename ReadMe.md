@@ -96,5 +96,5 @@
 
 [school]: https://hunter.cuny.edu/
 [twitter]: https://twitter.com/Loopy_Daniel
-[linkedin]: https://www.linkedin.com/in/daniel-l-b31554138/
+[linkedin]: https://www.linkedin.com/in/daniellupercio/
 [nyc3]: https://cloud.google.com/customers/nyc-cyber-command-2
