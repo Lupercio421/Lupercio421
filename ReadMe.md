@@ -22,7 +22,8 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Java" width="26px" src="images/java.svg"/>
+[<img align="left" alt="Java" width="26px" src="images/java.svg" />][java17]
+[<img align="left" alt="Java" width="26px" src="images/python-5.svg" />][python13]
 <!---[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
@@ -89,3 +90,5 @@
 [twitter]: https://twitter.com/Loopy_Daniel
 [linkedin]: https://www.linkedin.com/in/daniellupercio/
 [nyc3]: https://cloud.google.com/customers/nyc-cyber-command-2
+[java17]: https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
+[python13]: https://docs.python.org/3/
